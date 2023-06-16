@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * Use the function puts
+ * main - main block
  * Return: 0
  */
 int main(void)
