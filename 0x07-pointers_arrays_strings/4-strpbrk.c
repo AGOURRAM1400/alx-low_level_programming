@@ -4,9 +4,11 @@
   *@s: first value -char
   *@accept: second value -char
   *
-  *return: char with result
+  *Return: char with result
   */
+
 char *_strpbrk(char *s, char *accept)
+
 {
 	int j = 0;
 
